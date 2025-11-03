@@ -15,5 +15,5 @@ It implements a **Caesar Cipher** algorithm using **Python (Flask)** and a simpl
 ## ⚙️ How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/PRODIGY_PY_01.git
+   git clone https://github.com/kamii3/PRODIGY_PY_01.git
    cd PRODIGY_PY_01
